@@ -14,5 +14,5 @@ for (let i = 0; i < count; i++) {
 }
 
 // Now pyramidArray holds all the lines of the pyramid
-console.log(pyramidArray);
+
 pyramidArray.forEach(line => console.log(line));
